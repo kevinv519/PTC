@@ -1,0 +1,17 @@
+.custom-navbar{
+	background-color: rgba(9,40,58,0.6);
+	color: #eee;
+}
+.custom-navbar .navbar-nav > li > a {
+	color: #eee;
+}
+.custom-navbar .navbar-nav > li > a:hover,
+.custom-navbar .navbar-nav > li > a:active,
+.custom-navbar .navbar-nav > li > a:focus {
+	background-color: #0E6BA8;
+}
+
+.logo {
+	width: 83.41px;
+	height: 50px;
+}
